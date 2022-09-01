@@ -12,7 +12,6 @@ while (masUnidades) {
         if (masUnidades === true) {
         let cantidadExtra = parseInt(prompt("¿Cuantas unidades más desea comprar?"))    
         cantidad = cantidad + cantidadExtra   
-        multiplicacion  
         alert("El monto a pagar es de $" + multiplicacion (precioProducto, cantidad))        
     } else { 
         alert("Gracias por su compra, el total a pagar es de $" + multiplicacion (precioProducto, cantidad))
